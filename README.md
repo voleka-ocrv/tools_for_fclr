@@ -1,3 +1,4 @@
 # My tools
 
-parse_fclr_convert_log.py is for parsing logs from fclr_convert.
+|parse_fclr_convert_log.py| script for parsing logs from fclr_convert.|
+|loss.ipynb| расчет logloss на базе прогнозных оценок|
